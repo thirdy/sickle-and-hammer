@@ -6,7 +6,7 @@ https://code.google.com/archive/p/sickle-and-hammer/
 
 A worklog tool I've been hacking on my lunch time. Makes life easier if you need to log your hours on JIRA.
 
-[screenshot](https://raw.githubusercontent.com/thirdy/sickle-and-hammer/master/sh-0.0.4.PNG)
+![sh-0 0 4](https://cloud.githubusercontent.com/assets/75921/19139444/55418fa4-8bb7-11e6-9053-14b278d74867.PNG)
 
 Sickle and hammer is free and open source tool you can use to submit your worklog faster than usual using the jira web UI.
 
