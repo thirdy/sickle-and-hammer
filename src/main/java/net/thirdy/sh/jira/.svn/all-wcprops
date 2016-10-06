@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/sickle-and-hammer/src/main/java/net/thirdy/sh/jira
+END
+CustomHttpClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/sickle-and-hammer/src/main/java/net/thirdy/sh/jira/CustomHttpClient.java
+END
+SubmitWorklogTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/sickle-and-hammer/src/main/java/net/thirdy/sh/jira/SubmitWorklogTask.java
+END
+NoCertHttpsScheme.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/sickle-and-hammer/src/main/java/net/thirdy/sh/jira/NoCertHttpsScheme.java
+END
